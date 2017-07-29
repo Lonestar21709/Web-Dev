@@ -31,3 +31,18 @@
 * Adding a remote
 * Pushing to github
 
+Git Commands I need to know
+
+git add .
+
+git commit -m "sdaklfjal"
+
+git push -u origin master
+
+git remote add origin git@github.com:Lonestar21709/Web-Dev.git
+
+git remote -v
+
+cat .git/config
+or 
+git config remote.origin.url
